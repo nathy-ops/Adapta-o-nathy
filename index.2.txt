@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Menino do sorriso bonito</title>
+  <style>
+    body {
+      background: #fff0f5;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      color: #333;
+      text-align: center;
+      padding: 50px;
+    }
+
+    h1 {
+      color: #d6336c;
+      font-size: 3em;
+      margin-bottom: 20px;
+    }
+
+    p {
+      font-size: 1.5em;
+      color: #555;
+      background: #ffe4ec;
+      padding: 20px;
+      border-radius: 12px;
+      display: inline-block;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    }
+
+    footer {
+      margin-top: 50px;
+      font-size: 0.9em;
+      color: #888;
+    }
+  </style>
+</head>
+<body>
+  <h1>💖 Menino do sorriso bonito 💖</h1>
+  <p>✨ só pra lembrar que você é lindo, beijinhos e cuide desse pé 🦶💋</p>
+
+  <footer>
+    feito com carinho 💌
+  </footer>
+</body>
+</html>
+
